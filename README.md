@@ -12,4 +12,6 @@
 
 [MATEMATICA](MATEMATICA.md)
 
+[FILOSOFIA](FILOSOFIA.md)
+
 📩[Vuoi contribuire con i tuoi appunti?](contribuisci.md)
