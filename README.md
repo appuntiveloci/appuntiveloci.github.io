@@ -16,4 +16,6 @@
 
 [CHIMICA](CHIMICA.md)
 
+[CLICCA QUI](Gatto sei sette.gif)
+
 📩[Vuoi contribuire con i tuoi appunti?](contribuisci.md)
