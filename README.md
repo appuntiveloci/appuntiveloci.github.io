@@ -1,5 +1,5 @@
 # appuntiveloci.github.io
 
-[Sala](Sala)
+[SALA/BAR](Sala)
 
 📩[Vuoi contribuire con i tuoi appunti?](contribuisci.md)
