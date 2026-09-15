@@ -1,16 +1,6 @@
-# appuntiveloci.github.io
-
-[SALA-BAR](SALA-BAR.md)
-
-[ITALIANO](ITALIANO.md)
-
-[INGLESE](INGLESE.md)
-
-[FRANCESE](FRANCESE.md)
+# appuntiveloci.github.i
 
 [STORIA](STORIA.md)
-
-[MATEMATICA](MATEMATICA.md)
 
 [FILOSOFIA](FILOSOFIA.md)
 
