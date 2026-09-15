@@ -14,4 +14,6 @@
 
 [FILOSOFIA](FILOSOFIA.md)
 
+[CHIMICA](CHIMICA.md)
+
 📩[Vuoi contribuire con i tuoi appunti?](contribuisci.md)
