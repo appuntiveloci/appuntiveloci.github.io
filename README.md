@@ -16,6 +16,6 @@
 
 [CHIMICA](CHIMICA.md)
 
-![Cat six seven](images/Gatto six seven.gif)
+![Gatto six seven](./Gatto six seven.gif)
 
 📩[Vuoi contribuire con i tuoi appunti?](contribuisci.md)
