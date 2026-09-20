@@ -8,6 +8,6 @@
 
 [MATEMATICA](MATEMATICA.md)
 
-<img src="./Gatto six seven.gif" width="300">
+[GRECO](GRECO.md)
 
 📩[Vuoi contribuire con i tuoi appunti?](contribuisci.md)
