@@ -12,7 +12,7 @@
 
 [Le parole atone 1](https://drive.google.com/file/d/1UbqVFOFg5nlZvnZqjl4IriHkJjmZDYW-/view?usp=drive_link)
 
-[Le parole atone 2](https://drive.google.com/file/d/1ujGuxSE5QhvKFtu59AR9Mi4Dn5M1XtAR/view?usp=drive_link)
+[Le parole atone 2](https://drive.google.com/file/d/1fqcY-AXGhCkKjk6w2ASov5YP60EQZ5f7/view?usp=sharing)
 
 [Il verbo essere](https://drive.google.com/file/d/1ikI0d8cnhUkiYD5hTJg4c01l-ZVA-28X/view?usp=sharing)
 
